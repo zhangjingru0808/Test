@@ -1,0 +1,476 @@
+
+Welcome everyone from r/all! Please remember:
+1 - You too can be part of the PCMR! You don't even need a PC. You just need to love PCs! It's not about the hardware in your rig, but the software in your heart! Your age, nationality, race, gender, sexuality, religion (or lack of), political affiliation, economic status and PC specs are irrelevant. If you love or want to learn about PCs, you can be part of our community! All are welcome!
+2 - If you're not a PC gamer because you think it's expensive, know that it is possible to build a competent gaming PC for a lower price than you think. Check http://www.pcmasterrace.org for our builds and don't be afraid to post here asking for tips and help!
+3 - Join our efforts to get as many PCs worldwide to help the folding@home effort, in fighting against Cancer, Covid, Alzheimer's, Parkinson's and more: https://pcmasterrace.org/folding
+4 - Need some special PC hardware? How about an Evangelion unit 02-Asuka ROG RTX 4090? We've joined forces with ASUS ROG to give a bunch of memmbers of the PCMR some awesome PC hardware of the Evangelion series: https://www.reddit.com/r/pcmasterrace/comments/171iblm/asus_x_pcmr_evangelion02_worldwide_giveaway_win_1/
+Feel free to post about any kind of doubt you might have about becoming a PC user or any other PC related question. That kind of content is not only allowed but welcome! We also have a Daily Simple Questions Megathread for your simplest questions. No question is too dumb!
+Welcome to the PCMR.
+
+I think it's time to switch to a new measurement system, 20FPS is 1200FPM, sounds fast!
+
+Let's go with seconds per frame.
+My PC does 7 SPF.
+
+You did it wrong
+You should say 7000MSPF
+larger numbers always sound faster
+
+Or 7000MTBF (Mean time between frame)
+
+“No no, you don’t understand, the MTBF is practically zero! It’s just that each frame lasts like two seconds”
+
+It confuses me why they say the minimum specs are so low, yet it doesn't even run at those specs
+
+If they put the lowest specs higher, fewer people would buy it. They have a graph of projected sales vs minimum spec and they don’t actually give a shit what it plays like at that spec, just that they get enough sales at it.
+
+But AFAIK they also lose money every time someone refunds because someone still has to eat the transaction fees.
+So if we had a bit more self-control we could fuck them over right back.
+
+Percentage of refund is low. E.g. Cyberpunk 2077 refund percentage was only 1.6%.
+
+Where do you find that info?
+
+https://arstechnica.com/gaming/2021/04/cyberpunk-2077-refunds-barely-dented-cd-projekt-reds-bottom-line/
+
+This is what's wrong with modern gaming: consumers being fucking clowns.
+
+There are players that will spend the initial 2 hours of the playtime just creating their character... losing their option for the automated refund on steam
+
+why lmao
+cyberpunk was quite bad at launch compared to now but like, it was still tons of fun and I enjoyed it a lot
+
+Which honestly would have been smart because boy have they turned that game around. It's easily a solid 90/100 game today with 2.0 and Phantom Liberty
+
+Self controll? You mean... like... not buying pre-release? I mean yeah, I know, but that trailer video looked sooo good...
+
+I wonder how much they paid NASA to let Paradox record the game on space-grade hardware.
+
+The sad thing is most people that will pre-order or get it at launch are people that have the first one with all the DLC...so there isn't a lot of reason to buy or play it in the state it is in.
+Youtube peeps will just because people want to watch the new thing but the normal people have zero reason to suffer through it.
+
+It's confirmed, developers are greedy dickheads
+
+Correction, publishers are greedy dickheads
+
+With dlss*
+
+CSII doesn't have DLSS
+
+Someone will unnaturally jam it in.
+
+The loveliest and most apt metaphor
+
+This will keep happening until people stop buying unoptimized games. Don't at me.
+
+Obviously unoptimized games are a hot topic these days, can someone actually explain what unoptimized is? What are companies doing that optimizes games vs companies that aren't?
+
+Optimizing software can mean a variety of things, though in this context it means to optimize for higher frame rates. Usually, when developing something, you might implement the simplest or quickest solution first, such as perhaps rendering everything each frame. Then later, in order to optimize this, you implement a more complex solution that first computes what the player can see, and then renders just that.
+Thing is, the more complex solutions take time and expertise, which costs a lot of money, and are perhaps more prone to bugs, so some developers choose to do less of it than others.
+
+When you write code you can often do a task multiple ways. The skill to know which way is the most efficient is something you find with experienced developers. Getting it done vs getting it done right are very different things.
+Companies outsourcing, contracting, and otherwise cheaping out on programmers often don't get this skill included. Each tiny iteration of inefficient code adds up to make a mess like we see with these games.
+An example:
+I was writing a small add on script to complete a task that would run nightly. In order to avoid duplicates "finished" items were added to an array(list of values). Any new items coming in were checked for whether they were in that array. The function to check if a particular value was in the array wasn't working but I was able to loop through the array and check each value. I went ahead with this inefficient approach then told my manager we'd need to work out why the efficient function wasn't working. 
+4 years later, that script takes 4 minutes to run every night...
+
+Optimizing basically means simplifying the math in the code so the game is easier to run.
+
+not necessarily simplifying, could be complicating it more with multithreading or something like that. basically, anything to make the game run better/within expectations.
+
+If I could buy less games I would.
+
+The devs plan to release it in a later update
+
+A working game?
+
+That's the thing, CSII they can work to make it better with a patch.
+Alan Wake 2 doesn't have that option, they built the game with DLSS so it will always be bad.
+
+Because the game was pushed out while in alpha i presume.
+
+On ultra performance.
+
+DLSS is such a godsend, my 3050 runs almost every game at max settings in an almost smooth 30-40 fps
+
+I have to put everything on low at 1080p with Fidelity fx on in cities skylines 2 on a 4060
+
+20fps wow that is smokin fast /s
+
+Heh what a pleb, my spec can run at 21fps!
+
+Literally
+
+Currently running it at 30fps on a 1080 so...
+
+It's also not even close to true. I run CS2 with a 7800 XT and a 5800x3d and have between 60-80 fps, playing on 1440p. No idea what all these memes are about lol
+
+I gave CS2 a try yesterday and after building a tiny town my fps was at 20 after I turned off all the problematic graphics options at 3440x1440 (native resolution for me). I would have expected my 5800x and 3070ti to at least hold 30 in that situation, and the game looked awful. I had to refund despite me having hundreds of hours clocked in the original.
+
+You should return those parts and ask for 128ghz single core and 32gb ddr7
+
+Yeah the real deal is 2GB RAM DDR9 CL1,1,1,0.3 28Ghz
+
+Even my USB stick has more VRAM
+
+Facts if your USB stick doesn’t draw 200w and require a noctua NHD-15 to properly cook then you rlly should upgrade in 2023
+
+It's the "1" we need, the only card to match up the legacy of the 10xx will be the 100xx
+
+you forgot TiFeAuAgCu Founders edition
+
+This is sad, but unfortunately this is what will happen. Overworked devs rushing to finish their shit in impossible timelines, knowing that people will buy that shit anyway
+
+Dude could you explain to me why companies do this shit? When games like Elden Ring, BG3, RDR2 and GTA V gets a lot of profit because they were really polished 
+Why do they insist on rushing everything and get shit for that? Why they can't just wait?
+
+it's usually not the devs fault. But management. Poor project management then they push the devs so they can meet their marketing deadlines. Happens all the time nearing holidays.
+
+In case of CS2, there is probably a link with its release on Microsoft Gamepass, where there likely is a contractual agreement to have it released in October. Still a management decision though.
+
+It ultimately comes down to the customers. Everyone that bought the game knowing full well that it had serious technical issues are responsible for perpetuating this crappy business practice.
+
+Absolutely not. I guarantee most people who bought the game had no idea it was going to have massive technical issues. Not everyone browses forums for reviews and such. The company is ultimately responsible for releasing a properly finished product, it has been proven time and time again a well finished product sells much better (even when they garner a ton of pre-sell hype, they would still rake in way more sells after release if the product was good).
+
+Baldur's Gate 3 is an outlier considering it was in early access for three fucking years. Like, it's good to think BG3 is now the benchmark everything has to be measured against, but then you gotta take that baggage too. Basically, to put it bluntly, the current AAA game cycles aren't sustainable. We either get what we currently have, or we get much more expensive games, or we get much fewer games. But we can't have it all.
+
+I'd be OK with fewer AAA games actually. It gives indie games more time to shine.
+
+Maybe im misremembering but didn't it always used to be like that? When video games weren't extremely mainstream I felt that development cycle on major franchises were a little slower but when a big title name dropped everyone was on it because it was AAA for a reason. Then we had a bunch of random indie games that would sometimes make names for themselves
+
+Same as with blockbuster movies, AAA games are now featuring bigger and bigger budgets. They used to be cheaper and had grades to them. 
+I mean "AAA" is not a battery type, we used to have AA and B-level games. The difference between low-budget games and AAAs are much starker now.
+AAA game devs began inflating budgets because the industry matured and more money were readily available from investors. It's a slow creep that will eventually lead to a sharp disillusionment and I have my popcorn ready.
+
+Idk not really. Dev cycles used to be much faster cause games were just easier to make which is why we went from 3 GTAs in 10 years, to 1 every 15 years.
+
+Fewer AAA games are fine since we don't need every company coming out with 3-5 of them a year.
+We need more AA games...it will mean not every game needs to take 5 years to make and cost millions of dollars and some indie games could be funded into AA games so they could be even better.
+
+Being in early access for three years really isn't bad considering what we got as a final product.
+More devs should do what they did and let you fuck around with the beginning of the game, and instead of drip-feeding content as development progresses, hold it back until full release. I think the devs of Ready Or Not said recently they're not releasing any more content until 1.0, and I think they will be better off for it.
+Me and my friends don't have the motivation to play Sons of the Forest, because every time we get past a certain point it seems like they add more content to a cave or location we already cleared.
+
+Oh no, it's not bad -- just pointing out that BG3 is kind of an outlier in general; a game that had the luxury of staying in early access for a long while, from a very experienced studio with the appeal of a massive IP.
+
+You say this, but then go check out how hard Wayfinder is being dunked on in their Early Access release.
+It's really "Damned if you, damned if you don't".
+
+Games that already exist stick around as forever competition. Especially popular ones since fans will fix compatibility problems for those.
+They will always be there for people to go back to and replay instead of buying a new game.
+
+Fewer, but better, games sounds good to me.
+
+Politely speaking: The statements are fine. The conclusion, however, is plainly silly.
+
+Because the companies know people will still buy regardless. Plus possibly a tiny splash of backlash when games get delayed = overworked, rushed devs making incomplete/unoptimized games
+
+The sad part is there's still a large number of people who blame it on "outdated hardware" with the logic of simply upgrading to the latest and greatest.
+I kid you not that they are saying to upgrade to 4090 matrix or wait for rtx 5000 series non-sarcastically.
+
+CO the developer studio behind CS2 is located in Finland and has about 20 developers. In Finland they have strict labour laws which basically makes overtime almost impossible. They definitely aren't overworked which to be fair I think is a good thing. Because the slave crunch practices that Rockstar used for GTA 5 and RDR 2 are honestly disgusting.
+
+Think of it this way:
+Game 1: Game is based off our well-known engine. We've done other games with it. We allotted, say, 6900 hours of development with 1200 hours of crunch time to get the game completed. Game is success. 
+Game 2: We have a fuckload of new features, a new engine, and online components we've never even tried... 6900 hours with less crunch time because we like our employees. Game is in a horrible state at launch because we fudged the Crunch time from the first game, and weren't funded enough from big corp to get this one out the door in a good state. so we launch it now, and fix it later. 
+source: Friend is high-level engineer for a VERY popular game.
+
+ER was and still is not really polished on PC, game itself was incredible and the performance was fine ig, but saying really polished is a bit tomuch for PC . and yeah the suits are to stupid to realise waiting will make more profit in the long term, most  buiness people can only look ahead for a little bit and not longer. and have u seen some of them, half of the suits are fcking lunitics that are so far from reality it's wild, unity CEO/Elon musk are perfect examples of that.
+
+It’s cause these games would be good even if played in graphics from space invaders.
+
+Because people pre-order shit and continue to buy shit, and shit dlc's. So they become full time shit shovelers knowing there is a massive demand for massive shits.
+
+BG3 isn't polished. It's rather infamously bugged to hell. At least it was for the 1st month or 2. Idk what state it's in now.
+
+I wouldn't say that Elden Ring ran fantastically at launch. It ran decently, but saying that it was "really polished" isn't what I would classify it as.
+As for BG3, RDR2, and GTA V, 2 of those 3 games are made by Rockstar which has all the money and time in the world to make their games. GTA V is one of the most profitable games in all of existence and RDR2 is made by the same company so they clearly expected a similar amount of cash flow (as we saw with how monetized the online was at launch.)
+BG3, while very successful, will never be as successful as the micro-transaction littered games that release commonly. While gamers will appreciate high-quality and complete games at launch, executives at gaming companies understand that micro transactions do bring in a ton of money, and so they're willing to push out a game early in order to bring in that money quicker. A lot of people don't care about performance, and a lot of the time executives are proven correct about their assumptions of how people think about performance. Just look at how many people bought Cities Skylines 2 despite the fact that the devs publicly said "It's going to run terribly at launch." And now people go "WTF IT'S RUNNING TERRIBLY?"
+TL;DR They do it because they can, and nobody is going to do anything about it. Reputation doesn't matter anymore because people will throw money at it anyways. It takes a lot to make performance too much of an issue for the casual gamer, and gaming profits come from those people more than anyone else.
+
+Quantity vs quality. Either release lots of ganes(dlc included )with low quality and get several small profits or released few games with high quality and get few huge profits. In both ways you will get profit.
+
+PC GTA V is like 8 years old at this point, not really part of the same reality. The rest I agree with.
+
+Publishers don't want to wait because pushing a game back or just having a later release looks bad for the share holders. Doesn't matter anyways when you can get alot of people to preorder with FOMO for limited time stuff.  
+I mean this is also paradox we are talking about, the game wont be be worth it until they release 12 $20 DLC that locks bare bone mechanics if you don't pay for them.
+
+Because gamers complain to the management that games are "stuck in development hell" if it takes longer than 3 years to make a game so management(who usually know about as much about making games as most gamers do) pushes the devs to finish it faster.
+
+As a tech artist working in games.... this is a money decision not a dev decision. The development team knows they need more time to optimize the game. What usually happens is some suit walks in and thinks the game is shippable because he saw a pretty picture. They understand nothing about performance and even less about the average PC gamer and their hardware.
+As long as it runs on a dev box with a 4090 in it they think its done.
+
+Elden Ring polished? lol, Fromsoft basically didn't give a shit about the pc port. And BG3 had poor performance specifically in Act 3.
+
+GOTY contenders always get a free pass. It's insane.
+
+Yes, I've been disliked when I said exactly the same thing few weeks ago... Now it's even more obvious that I was right. Stuttery 200gb unoptimized subpar cash grabs. That's all.
+
+i'd say brain drain in the industry is more the problem. these overworked senior devs not getting paid enough left with all their experience and the industry is filled with new developers who can't code as efficiently.
+
+Forget what I say about RDR2 because I think they did the devs dirty if I remember correctly
+
+How did they do the devs dirty?
+
+At 544p
+
+*540p
+even lower!
+
+Based on how shitty our 4090s are and the combined poor optimization, it is rumored to run at 240p with the possibility of 480i without interpolation after the first few updates.
+
+Let me pretense this by saying I have a 3080, i9 9900X and 32GB of SLOW RAM.
+I've only just downloaded it on PC game pass, loaded it up and used all the default settings it gave me, 1440p, everything as high as it goes, like 8x AA for some reason and it was 30fps out the gate while doing the tutorials.
+Opened up the settings and there is a fairly comprehensive list of things you can alter in the advanced section, almost too many for someone like me to understand, but reducing AA settings and disabling depth of field (something I turn off in every game I play), plus lowering volumetric quality and shadows to medium netted me a 30fps increase. There is also a setting for choosing whether to prioritise FPS or simulation under heavy load.
+The game looks no different with these changes but runs a lot better, 57-62fps AVG and I'm sure I could tweak the settings for bigger improvements.
+There are definitely optimisation issues, no doubt, but it's a game that does some pretty intense simulation on a large scale, which is pretty CPU dependent, and these types of games always run rough when you start getting high population.
+I will note that the GPU is still pinned at 100% usage, therefore more demanding on that front than I'd expect, especially because it doesn't look ground breaking (it does have a good amount of small details that scale really well though).
+Should it run better? Yeah definitely. Is it running as badly as it does because of the GPU you have? Hmm not sure so sure. But is your CPU going to be the biggest bottleneck? Absolutely.
+The whole situation smells of Paradox pushing the game to be launched for money reasons, because how frequently do we see the Devs owning up to missing the mark BEFORE release? It's usually like getting blood out of a stone as Devs burry their heads while pushing updates that should of been there since launch.
+
+This! This is the damn problem with modern pc gaming. 800 different settings and all they do is lower the fps
+
+Depth of Field is what makes a sort of camera effect : things are sharp and in focus at a certain depth, while things at different depths are blurry and out of focus.
+It adds a sort of cinematic quality to the game.  
+It's not that all it does is tank FPS, it actually does something.  But it tanks FPS doing it.  You can turn it off, everything will be sharp and in focus all the time, it's not a massive game breaking visual change.
+
+Depth of field?? What??
+That has been a thing since...forever.
+There is a setting for it in Shogun 2....from 2011
+
+They implemented it very aggressively in Cities Skyline 2, which makes it the biggest culprit of lowered performance.
+The devs themselve suggest this : 
+https://steamcommunity.com/games/949230/announcements/detail/3744239011016556922?snr=2_9_100000_
+
+Ultra settings are the worst offender of this category! You are telling me I have to lose 10fps for a few more blades of grass?? I swear we have all been conditioned into believing that anything below ultra is potato quality!
+
+I actually think the issue is that most of the simulation has been moved to the GPU. 
+I'm on a first gen threadripper with a gtx1080 and it's playable on medium, but CS1 pushes my CPU to like 80% utilization and 2 barely uses it at all while my GPU is pinned around 95%.
+If they could somehow get it optimized for CPU loads again I'd actually be pretty stoked
+
+Get to a nice small city of 10k people and let me know how quickly those FPS numbers disappear.  I'd be fine with 30 FPS in this kind of game even, but the constant stuttering and frame time spikes into the 200+ms range just destroy the experience for me.  I was having fun with it for a while but I can't even get remotely smooth gameplay at the absolute lowest settings on my native resolution.  And they didn't even bother adding any kind of temporal upscaling as well, the best they have to offer is FSR 1.0, which btw they call "AMD Fixelity FX" in the description...
+<image>
+DLSS could have softened the blow possibly, but this is just pathetic and awful.  This game isn't ready to launch in the slightest, it needed another 6-12 months in the oven to get it right.
+
+I'm running just fine at 15k pop 30fps not much stuttering, mostly just when autosaving. I literally get worse performance in C:S1 lol, so I'm really not sure what the big deal is.
+1440p, 3070, 5600x, 32gb RAM.
+
+I think the most people in these kind of threads never played the game. I can run it just fine with 7800 XT + 5800x3d getting 60-80 fps.
+
+I have 1 fps in menu. Spec: i5-9600k, rtx 2070, 16 GB RAM.
+
+Better than mine, I should delete my existence maybe.
+
+Game doesn’t launch. Ryzen 5 5500, GTX 970, 8gm ram.
+
+I got a GTX 1660 Ti, 32GB ram, i7-9700  and it surprisingly runs in the main menu
+
+My menu runs at 60 fps at 1440p on my 4070ti. have no clue how everyone reaches 20 fps with these high end cards…
+
+They never learned to tweak their settings. Back in my days we would tweak settings until we get over 30 FPS. Now they cry if they don't get 144 FPS when setting everything on high/ultra. The game actually runs better than CS1 for me even without being optimized. 
+There are just a few buggy settings you have to deactivate but if you do it runs fine. CO should've done that by default but at least they put out the info which settings are heavy hitters and should be reduced or disabled.
+
+PC gamers will champion that PC's offer more variability than consoles and then cry when they have to manually tweak settings to get arbitrary FPS number.
+
+This subreddit is so awful, turning down a few settings literally gives 3x the frames in Cities Skylines. It’s more than playable on much lower hardware. Yes even the 100k pop. city.
+
+Wait... This is true?
+
+Yes its true, booted up the game today and before I even loaded in I looked for some optimized settings because I had heard the games runs like ass. Changed literally 5 settings and it’s running flawlessly.
+
+I was afraid to even attempt to play, might check out more balanced reviews later... Thanks!
+
+It seems nowadays most new releases get review bombed. I've been playing it and it's been fine. I did my research before I bought it and was well aware of what to expect. I bet most of the people badly reviewing the game are just a bit dim.
+
+I just find it bullshit how the game got over 2500 reviews within an hour of release and every single review moaning about the main menu. Main menu is running at 20 fps because for some reason the default setting when launching the game is High. Changed it to medium and literally quadrupled my framerate.
+
+I've seen reviews complain about the game being blurry when moving the camera. They have motion blur enabled...
+
+I mean, CO warned before hand and even gave settings advices to run the game properly. But people reviewed 'It run like shit at maxed on 4K WTF'. 
+Whatever
+
+You shoudnt need to do research to get the game to run with more than 2 fps in the menu. The game has jarring issues when the graphics are not set to low.
+
+You don't need to set the graphics to low. Just disable or lower 4 settings. Funnily enough I had to research every game to find the worst culprits in the settings back in the day to make it run above 30 FPS. But somehow everything got worse nowadays. The only thing that got worse is social media.
+
+Yup, the game defaulted me to all high, but I switched some to medium and it works fine(50fps). Although with my specs, I do expect high settings so devs still need to work on optimization.
+
+Yeah it's totally fine, I've been enjoying it, nowadays people are just too stupid to tune their settings lol
+Not to excuse CO, those should be off by default, but the amount of vitriol is just so ridiculous lol
+
+Also most games don't explain or help you know what the setting even do...when other games do. I feel like if it became standard that the game helps you adjust settings more people would.
+If you are new to gaming looking at some of the graphics settings screens would give you a heart attack trying to figure out what things do.
+
+I just disabled the Motion Blur like I do in every game and it's running fine for me.
+
+Same with alan Wake 2, while it's not out yet, and we can't really be sure, but according to nvidia, a 4070 should get 20fps on 1440p native with full path tracing. 
+People will literally "forget" the word path tracing and treat it as a joke like it's turning the lightning setting from high to ultra.
+Bro, it's feaking path tracing. It's gonna tank the gpu. Turn it off, and you get triple the performance. Maybe even more.
+
+They're doing full path tracing with 3 bounces, I think it's been so long since we had real, tech-changing innovations in games rendering that we have forgotten what it's like being at the cutting edge. It's like when SSAO or dynamic shadows first appeared and would cut your framerate in half.
+
+i think the problem lies in that despite having state of the art specs, the game still runs bad in max settings.
+
+Max settings should never be a comparison we use for how well a game runs. Hell, I personally like to see games use "MAX" settings in the way they used to. Basically allowing for the game to operate using future hardware. Max settings have never been meant to be efficient. 
+It used to be that Max settings were straight up unplayable for at least 2 generations of hardware. "High" was usually targeting top tier current gen hardware.
+
+"BUT BUT MY MAX SETTINGS 😡😡😡"
+
+Personally I think that somebody who paid like $3000 for a top of the line PC should be allowed to expect games to run well at max settings, but maybe that's just me.
+
+I think even if your PC is only at like 80% of top specs it should run at least 60fps at max settings. If not, either the game is poorly optimized or the game overshoots.
+
+Yeah it isn't nearly as bad as everyone makes it, I ran it on my 10 year old i7 with 16GB Ram and RTX3060 and it worked without a witch.
+Edit: didn't even modify the settings.
+
+idk cs2 runs fine with mid settings for me
+
+10400f and a 3060ti running without issue.
+
+Guys, idk what's going on. I don't have a top of the line pc and cities skylines 2 is running just fine. Actually, it's running better than cs1.
+I'm running it on game pass (and not on steam)
+
+Luckily the performance issues of CS2 were greatly exaggerated. I have slightly under recommended spec in some parts and the cities run fine besides some stutters if you spin the camera too fast.
+
+Welcome to reddit where everything is exaggerated and people bandwagon on the hate
+
+With nvidias linux drivers I could put my 3090 into a C64 or the Frontier system at Oak Ridge National Laboratory, it wouldn't matter for my 15FPS in Starfield.
+It's not always the game devs fault. It may also be the fucking hardware vendor.
+
+Whoever is making calls on release dates for gamepass live service games should be pilloried in every city in the country.
+
+It's crazy that people are excusing this by arguing that you should turn down your graphics settings.
+It's the goddamn menu, it absolutely should run smoothly regardless of graphics settings.
+
+Okay no but actually though. I JUST got my 13900K + 4090pc like a week ago in preparation for games like Alan Wake 2. Im seriously only gonna be able to get 1080p60 WITH DLSS?????
+
+I've been playing CS2 all night, its been running at around 40 - 60 fps with almost all high settings. Its a city making game, I dont need 170hz to play it and I forgot what time it was again like I did with the first game. I understand optimization is shit and hopefully it gets better but I still have been doing nothing but enjoying it. People can be outraged all they want but Ill be building Pound Town up and having fun.
+
+Dude, its barely playable at my native resolution, should i buy a 1080p monitor for this game?
+Its not the fps that bother me so much, its the frametimes, going from 10ms to spikes of 30-40ms frametimes its jarring
+
+Also turn off VSync if you haven't already. It's a bad setting anyways and only works if you don't drop below your max FPS.
+
+Turn off dynamic resolution, volumetric clouds and depth of field. The game should run more or less fine ( stable 40s-50s) after that at very low quality loss.
+
+dynamic resolution is normally a bad setting in games
+volumetric clouds - i'm looking at the ground most of the time
+depth of field not needed more for style
+all settings people can live without
+not supporting a unfinished game being released before its ready but its not like you have to run it at 480p
+
+I heard about the performance issues and bugs before I got home, but decided to see for myself. 3 hour session later I love the game.
+
+We've gotten to the point where everything is so divisive that you're either a blind supporter of a game or you despise everything about it and make no effort to enjoy it
+Reading a 2 minute optimisation guide is apparently a lost fucking art at this point.
+My current system is pretty mid and it runs fine at low 50s fps with just 3 settings turned down from the high preset, it's not incredible but people are review bombing the fuck out of a game that's just... Fine?
+It pains me because mechanically it's everything I wanted as a fan of cities 1, sure it's not great and CO should have launched with a better settings preset (that has the 3 broken settings, volumetrics, dynamic resolution and DOF turned off) but running at 50 odd FPS is just average for a game at launch week, people just want something to be mad at
+
+This genuinely sums up everything for me, I changed a few problem settings and off I went. The game is genuinely good, they even told people it wasnt up to par but they still spent the money and still are review bombing it.
+
+Oh so now we’re lying for memes?
+
+In 1999 i bought a 3DFX Voodoo graphic card for 200 bucks to play Half Life with 20 FPS! For me, that was crazy fluentl 3D expirience.
+
+Lucky, I paid 3X as much for my voodoo in 1996.
+
+rookie mistake… forgot to add extra metres of RGB
+
+I get a pretty good vibe from the CSII subreddit, especially older specs.
+
+I was surprised how well c:s2 ran for me last night, playing at medium settings at around 40-50fps at 3440x1440 no upscaling or drs. Now, I'm not saying it was a great experience, but better than the expected 20 or so FPS lol
+
+Why we shitting on Alan Wake 2? It's not out and Remedy have a good track record
+
+I think these kind of games are a great opportunity for our society. It unites the rich and the poor. Everyone is now a filthy peasant with a potato.
+
+The issue is you don’t have a CPU cooler on, its throttling
+
+I literally don't feel bad for any of you. Stop buying these piece of shit games. Stop preordering. We brought this on ourselves. You know what I do when a car company announces a new piece of shit car that doesn't run? I don't fucking buy it. When Google comes out with a new phone that sucks ass and has tons of glitches? Thanks, the phone I have works great. When I see a cool new shiny TV at Costco but it literally has ads built into it? Don't buy that shit.
+
+this is why i play old school RuneScape...
+
+Remember "can it run Crysis"? Now it's "Can it run Cities Skylines 2".
+
+I half know you're joking, but yes honestly. 
+Only now the push isn't always on the eye-candy front this time (ok, it was never just the visual aspect, but the underpinning are taking more of a precedent now it seems)
+Of course 99% of the community just play games and pay no attention to any news and forward looking around their hobby and moan when whats been broadcasted finally starts happening.
+
+He looks so happy in the last one smh poor fellow 🥺
+
+Not to mention that all these games are usually filled with fetch quests and have 40 hours of gameplay. Meanwhile, 30 of those hours aren't actually story or anything meaningful. They're just side quests that drag out time. I'm getting really annoyed trying to save games and how I feel like there's a new game released every 5 minutes and all of them are 40 hour games that I won't be able to complete in a month and I'm most likely to buy, play for 2 hours, then put down and never touch again because the newest game just came out.
+
+Oh don't worry dawg we'll just slap on a patch 3 months down the road and maybe jam in some DLSS! Hey why did your sales drop by 90%? 🤡
+
+I honestly tought I was at r/SteamDeck for a second.
+
+FPS over 90 is the new meme.
+
+The way things are going, soon everyone will be able to run Crysis at 60fps on ultra...
+
+<image>
+
+Do people really care about this game so much? My 4090 has handled all games never thought about touching this game
+
+Just wait for them to be optimized. People never learn, this is the future where shit doesn't work
+
+I am fine by all this. But consoles should also suffer like us then.
+Their weak gpu can do 4k while ours can't?
+
+Wait, is 8tb SSD a thing?!
+
+I have 12700k, 4080, 32gb ddr5. Ok installed through game pass. Started new game on Lakeland, got to the first tutorial, game crashed. Uninstalled right after.
+
+Wait for Alan wake 2
+
+Not even Crysis can run this game.
+
+Personally, I don’t think it matters what frame rate city skylines two is running at because you don’t need a high frame rate to play a top down city building simulator. Nothing in that game requires quick reactions from you or low latency.
+I think people are complaining about a nonexistent “issue” because it’s easier to be outraged than consider design decisions that the developers made especially ones that won’t really impact how much people enjoy the game.
+
+caps FPS at 30 
+SoLiD oPtImIzAtIoN
+
+what decent  optimization does to a mf
+
+if by solid optimiziation you mean lowering graphic settings then you can do that on PC, yourself.
+
+It's not a privilege. It's easier to optimize for consol cause you know exactly what the setting will be and where to cut corner to keep visual fidelity.
+
+Ray tracing is turned on by default turn it off if you're using an AMD card also turn all the settings to low except for terrain texture and other texture related settings and turn Shadow textures to medium hopefully that helps!
+
+Play this game on very low on a high end card to get stable fps
+
+Same here I got a 6950 XT all the settings are set to the lowest except for terrain texture and I'm able to get a solid 60 as long as I don't zoom in too far
+
+steer squash dinner distinct piquant fertile jellyfish knee secretive apparatus this message was mass deleted/edited with redact.dev
+
+Game isn't even out, review embargo isn't even up, but we've got memes about bad optimization. 
+Whew boy, PCMR.
+
+No matter how powerful PC hardware gets, game devs always find a way to make it not matter.
+
+And suddenly Starfield looks like the most optimized game ever. Impressive.
+
+This optimization obsession has gotten really stupid. 
+No your 2060 can't raytrace 1080p at 60+ FPS. That card came out YEARS ago. 
+What the fuck is people smoking. I want some.
+
+Jesus, the complaining on this subreddit sometimes is just mind-blowinginly baffling. Do some basic testing with settings and you can resolve this almost immediately.
+-Turn off depth of field (solves the problem like 90% of the time, but if it doesn't, do the rest below)
+-Disable volumetric quality
+-Lower level of detail a step
+-Disable motion blur
+-If on Fullscreen try Windowed mode (or vice-versa)
+As soon as I turned off DOF (which I hate anyways) everything ran fine. I'm running 1440p with everything else at max settings and getting a consistent 50-60 FPS. 
+Hardware is an I9 12900K, RTX 3080TI, 64 gb DDR4 off a 4gb NVME drive. So yes, it's up there, but it's by no means 'the lastest and greatest' setup. Certainly not a 14900K and RTX 4090.
+Maybe don't try running at 4K ultra? It's totally unnecessary for a game like this.
+
+Sir, this is the PCMR sub.  If I can't blindly slam 4K Ultra on my 10-year old midrange build than can we truly say PCs are the master race?  /s
+
+Well, if your game has the options that kills current available top GPU on the market and it doesn't make it look amazing - because it doesn't, it's not a path tracing cyberpunk - then "just lower your settings bro" is just an excuse to release more unoptimized games. 
+I would understand if that would be raytraced with each object having shadows from 15 different sources, like CP or Alan wake, but seeing Cities in action it does not provide any value to require power of that level.
+
+At least you can run Alan Wake 2 at a cinematic 24fps with that system!
+
+You guys are full of shit. It runs amazingly at 70fps with a 3060ti for me. I did have to tweak some settings, but medium/high on 1080p and it works like a charm. Bunch of drama queens
